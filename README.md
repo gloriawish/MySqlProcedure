@@ -7,3 +7,6 @@
 创建一个表
 然后执行test
 
+## 注意事项
+需要引入druid_procedure项目
+https://github.com/zhujunxxxxx/druid_procedure
